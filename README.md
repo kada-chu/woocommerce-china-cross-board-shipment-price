@@ -8,3 +8,6 @@ A plugin of woocommerce can display live shipment price and peroid on checkout p
 # 需要注册API账号（免费）
 http://www.wuliuapi.qifeiye.com/  
 
+#项目截图
+![Image text]https://raw.githubusercontent.com/kada-chu/woocommerce-china-cross-board-shipment-price/main/assets/screenshot-1.png
+![Image text]https://raw.githubusercontent.com/kada-chu/woocommerce-china-cross-board-shipment-price/main/assets/screenshot-2.png
