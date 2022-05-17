@@ -1,0 +1,68 @@
+msgid "SF express international parcel register"
+msgstr "顺丰国际小包挂号"
+
+msgid "SF express international e-commerce courier CD"
+msgstr "顺丰国际电商专递CD"
+
+msgid "E-MINHOUYOUZHENG express"
+msgstr "E特快-MINHOUYOUZHENG"
+
+msgid "E mail treasure-MINHOUYOUZHENG"
+msgstr "E邮宝-MINHOUYOUZHENG"
+
+msgid "Yuntu global private line registration (live)"
+msgstr "云途全球专线挂号（带电）"
+
+msgid "Yuntu global private line registration (special HP goods)"
+msgstr "云途全球专线挂号(特惠普货)"
+
+msgid "Us postal treasure (Canada special line)"
+msgstr "美邮宝（加拿大专线）"
+
+msgid "Special offer for sino us special line (USPS)"
+msgstr "天梯中美专线特惠（USPS）"
+
+msgid "Shanghai guard (American small bag general cargo-express JX)"
+msgstr "上海守务（美国小包普货-特快JX）"
+
+msgid "Putian 4PX-special line for general goods"
+msgstr "莆田4PX-普货专线"
+
+msgid "Putian 4PX-special line for masks"
+msgstr "莆田4PX-口罩专线"
+
+msgid "Yan heritage flow (tracking general goods) Europe"
+msgstr "燕文物流(追踪普货)欧洲"
+
+msgid "Yan heritage flow (tracking general goods) North America"
+msgstr "燕文物流(追踪普货)北美"
+
+msgid "Yan-wen special line tracking general goods (shoes and clothing special line)"
+msgstr "燕文专线追踪普货(鞋服专线)"
+
+msgid "Yida logistics global express-general goods"
+msgstr "义达物流全球快捷-普货"
+
+msgid "Yida logistics (Canada)"
+msgstr "义达物流(加拿大）"
+
+msgid "Yida logistics global express-general cargo-AZGLON"
+msgstr "义达物流全球快捷-普货-AZGLON"
+
+msgid "Yida logistics (Japan)"
+msgstr "义达物流(日本)"
+
+msgid "Yida logistics (Japan-electric)"
+msgstr "义达物流(日本-带电)"
+
+msgid "express company name"
+msgstr "快递公司名称"
+
+msgid "fixed charge per order"
+msgstr "每单的固定收费"
+
+msgid "custom discount"
+msgstr "自定义折扣"
+
+msgid "You can set a fixed fee that will be charged for each order.  This fee will be charged regardless of the Settings below.  Such as 5.00.  The default is 0 yuan.  "
+msgstr "您可以设置一个每笔订单都会收取的固定费用。无论下面的设置如何，都会收取这个费用。类如5.00。默认是0元。"
